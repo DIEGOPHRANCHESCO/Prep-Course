@@ -27,7 +27,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 ```
 
 "Make Directory": Crea una nueva carpeta en el directorio donde nos encontramos actualmente.
-```bash
+```bashñ
   $ mkdir [nombre de la carpeta]
 ```
 
@@ -84,7 +84,7 @@ Para poder trabajar en un proyecto debes clonarlo (descargarlo) a tu máquina lo
 
 Una vez tengas la dirección copiada, abre una terminal nueva y escribe lo siguiente:
 
-
+git clone
 ```bash
   $ cd ~
 
